@@ -1,0 +1,41 @@
+.App {
+    background-color: #253a63;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.App-header {
+    background-color: #6997f1;
+    min-height: 100%;
+    width: 350px;
+    /* margin: 10px; */
+    padding: 3px;
+    display: flex;
+    flex-direction: column;
+    align-items: justify;
+    justify-content: center;
+}
+
+.App-link {
+    color: #61dafb;
+}
+
+.input {
+    align-items: justify;
+    justify-content: space-between;
+    display: flex;
+}
+
+.todo {
+    background-color: #071f4ffc;
+    width: 350px;
+    display: flex;
+    align-items: justify;
+    justify-content: space-between;
+    font-size: calc(10px + 2vmin);
+    color: rgb(174, 248, 13);
+    /* border: #61dafb; */
+    border: inline 2px;
+}

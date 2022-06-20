@@ -1,0 +1,19 @@
+.todo-input {
+    background-color: #071f4ffc;
+    width: 250px;
+    height:40;
+    display: flex;
+    /* align-items: center; */
+    /* align-items: justify; */
+    /* justify-content: ; */
+    /* font-size: calc(10px + 2vmin); */
+    color: rgb(174, 248, 13);
+    /* border: #61dafb; */
+    /* border: inline 2px rgb(203, 211, 225); */
+    background-color: #253a63;
+    /* min-height: 100vh; */
+    display: flex;
+    align-items: justify;
+    justify-content: justify;
+    justify-items:stretch ;
+} 
